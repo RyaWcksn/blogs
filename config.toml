@@ -1,45 +1,4 @@
 baseURL = 'https://ryawcksn.github.io/blogs'
 languageCode = 'en-us'
 title = 'Dev log'
-theme = "anatole"
-defaultContentLanguage = "en"
-paginate = 20
-pygmentsStyle = "bw"
-pygmentsCodeFences = true
-pygmentsCodeFencesGuessSyntax = true
-enableEmoji = true
-
-[params]
-author = "Pramudya Arya Wicaksana"
-description = "Arya's Developer Log"
-keywords = "blog,developer,personal"
-info = ["Backend Engineer", "Otaku"]
-avatarURL = "images/avatar.jpg"
-dateFormat = "January 2, 2006"
-since = 2017
-
-[[params.social]]
-name = "Github"
-icon = "fa fa-2x fa-github"
-weight = 1
-url = "https://github.com/RyaWckns/"
-
-[[params.social]]
-name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
-weight = 4
-url = "https://www.linkedin.com/in/ryawcksn/"
-
-[languages.en]
-languageName = ":uk:"
-
-[[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-
-[[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
-
+theme = "keepit"
