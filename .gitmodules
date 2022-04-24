@@ -7,3 +7,6 @@
 [submodule "keepit"]
 	path = keepit
 	url = https://github.com/Fastbyte01/KeepIt.git
+[submodule "themes/researcher"]
+	path = themes/researcher
+	url = https://github.com/ojroques/hugo-researcher.git

@@ -1,4 +1,4 @@
 baseURL = 'https://ryawcksn.github.io/blogs'
 languageCode = 'en-us'
 title = 'Dev log'
-theme = "keepit"
+theme = "researcher"
